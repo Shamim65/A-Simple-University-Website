@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #FF5733; /* Vibrant orange color */
+    background-color: #333;
     color: white;
     padding: 1rem;
     text-align: center;
@@ -42,23 +42,6 @@ main {
 footer {
     text-align: center;
     padding: 1rem;
-    background-color: #FF5733; /* Vibrant orange color */
+    background-color: #333;
     color: white;
-}
-
-/* Adding color to sections */
-.about {
-    background-color: #F7DC6F; /* Pale yellow color */
-    padding: 1rem;
-}
-
-.courses {
-    background-color: #3498DB; /* Blue color */
-    color: white;
-    padding: 1rem;
-}
-
-/* Adding color to links */
-nav a:hover {
-    color: #FF5733; /* Change to orange on hover */
 }
